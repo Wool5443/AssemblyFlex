@@ -2,7 +2,7 @@
 ## Frame
 Draws a frame with given width, height, color, style and text in command line.
 ```bash
-frame 40 15 4c 2 Hello!!!
+frame 40 15 4c 2 Prodva, pochemu vi molchite???
 frame 25 10 70 *1112 2333 Bye-bye!!!
 ```
 
